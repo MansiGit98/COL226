@@ -1,0 +1,12 @@
+program this :: 
+var c,d,count : int;
+var cond : bool;
+{   
+    d := 3;
+    c := 0;
+    count := 7;
+    while (count > 0) do{
+        count := count - 1;
+    }endwh;
+}
+
